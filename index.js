@@ -1,3 +1,3 @@
 const driver = 'bob';
 
-console.lot('this code was called')
+console.log('this code was called')
